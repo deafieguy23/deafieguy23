@@ -10,7 +10,7 @@ During my free time, I build things — mostly at the intersection of data, spor
 |---|---|---|
 | [**LeBron Career Scoring Analysis**](https://github.com/deafieguy23/lebron-analysis) | A data-analytics study of a 22-season scoring trend — the story of superstar longevity, told through pandas + matplotlib. | Python · pandas · matplotlib · Jupyter |
 | [**Atelier**](https://github.com/deafieguy23/atelier) | An AI-powered closet app: photo-based clothing tagging, category filtering, and an outfit-combination engine with skin-tone-aware suggestions. | React · Vite |
-| **DeafSportsVision** | A Deaf-first sports media brand — captioned, visual-first breakdowns built for the Deaf community. | Content · brand |
+| **DeafSportsVision** | A Deaf-first sports media brand — captioned, visual-first breakdowns built for the Deaf community. | Content · brand · Instagram |
 
 *More in progress: an agentic trading research pipeline (dry-run-first discipline), a personal workout trainer, and a branching Basketball IQ trainer.*
 
