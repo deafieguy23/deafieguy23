@@ -1,4 +1,4 @@
-# Hi, I'm Sj 👋
+# Hi, I'm deafieguy23 👋
 
 During my free time, I build things — mostly at the intersection of data, sports, and Deaf-first accessibility. Everything I make starts from one question: *would this work for a Deaf user first, not as an afterthought?*
 
